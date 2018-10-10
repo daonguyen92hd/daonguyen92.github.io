@@ -6,13 +6,9 @@ layout: default
 
 <img class="profile-picture" src="daonguyen.jpg">
 
-NGUYEN DINH DAO
-*Master student in the International and Development Economics*
-Crawford School of Public Policy
-Australian National University
+NGUYEN DINH DAO, *Master student in the International and Development Economics*, Crawford School of Public Policy, Australian National University
 
-ORGANIZATION: The centre for Agricultural Policy (CAP)
-Position held: Researcher in Economic Modeling and Policy Analysis Division
+Researcher in Economic Modeling and Policy Analysis Division at The centre for Agricultural Policy (CAP)
 
                               
 ## EDUCATION BACKGROUND
