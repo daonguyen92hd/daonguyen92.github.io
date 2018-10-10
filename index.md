@@ -15,9 +15,9 @@ Researcher in Economic Modeling and Policy Analysis Division at The centre for A
 
 Year | School
 -----|--------
-9/2007-7/2010 | Upper Secondary Degree, Nguyen Trai Specialized High School,                                                             Hai Duong Province
-9/2010-5/2014 | Bachelor of Economics, National Economics University, Ha Noi
 6/2018-current| The Crawford school, ANU, Canberra, Australia
+9/2010-5/2014 | Bachelor of Economics, National Economics University, Ha Noi
+9/2007-7/2010 | Upper Secondary Degree, Nguyen Trai Specialized High School,                                                             Hai Duong Province
 
 
 ## PUBLICATION
