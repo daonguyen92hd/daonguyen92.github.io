@@ -36,10 +36,11 @@ Year | School
 
 Year | Organization | Award name
 -----|-------|--------
-2011 | NEU  | Scholarship at the University for Distinction students
-2014 | NEU | Encouraged prize at the University Contest of student’s research
-2017 | IPSARD | The award certificate of the IPSARD's general director on felicitation the excellent researchers in 2016
 2017 | AAS |  AAS Scholarship
+2017 | IPSARD | The award certificate of the IPSARD's general director on felicitation the excellent researchers in 2016
+2014 | NEU | Encouraged prize at the University Contest of student’s research
+2011 | NEU  | Scholarship at the University for Distinction students
+
 
 ---
 
