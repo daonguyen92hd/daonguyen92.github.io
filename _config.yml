@@ -1,0 +1,24 @@
+title: DaoNguyen
+url: "https:daonguyendinh.com"
+baseurl: "/daonguyen92hd.github.io"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/daonguyen92hd"
+footer_text: "Page design by DaoNguyen"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+
+ - name: "Resume"
+   link: "CV.pdf"
+ - name: "Contact"
+   link: "contact"
+ - name: "Australia's life"
+   link: "aus"
