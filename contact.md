@@ -22,5 +22,4 @@ is_contact: true
 ## Social
 
 1. [Facebook](https://www.facebook.com/daoktqd.tk)
-2. [Twitter](#)
-3. [Google+](#)
+
